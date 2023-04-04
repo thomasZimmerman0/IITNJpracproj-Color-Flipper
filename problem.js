@@ -3,7 +3,7 @@
 
     1.) Create a function that returns a random value between 0 and 255 **Hint: this can be done by using the following ===>>> Math.floor(Math.random() * 255);
 
-    2) Create another function that uses the random number generator to generate a new random color with **Re-watch https://teamtreehouse.com/library/javascript-loops/the-refactor-challenge-duplicate-code to see how you can make an rgb string with a random number generator.
+    2) Create another function that uses the random number generator to generate a new random color **Re-watch https://teamtreehouse.com/library/javascript-loops/the-refactor-challenge-duplicate-code to see how you can make an rgb string with a random number generator.
 
     3) Use query selector to grab the div with the class "container-fluid"
 
